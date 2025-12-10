@@ -24,7 +24,7 @@ def create_password_protected_pdf(input_pdf, output_pdf, password):
     except Exception as e:
         print(f"Error: {e}")
 
-        #Example only
+        
 
 
 def main():
